@@ -1,5 +1,5 @@
 import java.lang.Math;
-class SquaresSortedArray {
+class Solution {
 
   public int[] sortedSquares(int[] nums) {
     int[] sol = new int[nums.length];
