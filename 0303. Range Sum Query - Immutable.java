@@ -1,4 +1,4 @@
-class RangeSumQuery {
+class Solution {
     private int[] arr;
 
     public RangeSumQuery(int[] nums) {
