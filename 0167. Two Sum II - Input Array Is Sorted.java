@@ -1,4 +1,4 @@
-class TwoSumInputArray {
+class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] sol = new int[2];
         int left = 0, right = nums.length - 1;
